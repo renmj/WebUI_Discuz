@@ -1,0 +1,86 @@
+2019-02-27 20:24:52,215 - BrowserEngin - INFO - 你选择了Chrome游览器
+2019-02-27 20:24:52,216 - BrowserEngin - INFO - 测试URL是:http://127.0.0.1/forum.php
+2019-02-27 20:24:55,179 - BrowserEngin - INFO - 启动谷歌游览器
+2019-02-27 20:24:57,339 - BrowserEngin - INFO - 打开：http://127.0.0.1/forum.php
+2019-02-27 20:24:58,493 - BrowserEngin - INFO - 窗口最大化
+2019-02-27 20:24:58,497 - BrowserEngin - INFO - 等待10秒
+2019-02-27 20:24:58,800 - BaseCase - INFO - send_keysguo
+2019-02-27 20:24:59,097 - BaseCase - INFO - send_keys123456
+2019-02-27 20:24:59,293 - BaseCase - INFO - click
+2019-02-27 20:25:05,517 - BaseCase - INFO - click
+2019-02-27 20:25:06,396 - BaseCase - INFO - send_keystitlettttttt
+2019-02-27 20:25:07,192 - BaseCase - INFO - send_keyscontentttttttttt
+2019-02-27 20:25:10,206 - BaseCase - INFO - click
+2019-02-27 20:25:10,572 - BaseCase - INFO - click
+2019-02-27 20:25:11,514 - BaseCase - INFO - send_keyshello
+2019-02-27 20:25:12,398 - BaseCase - INFO - click
+2019-02-27 20:25:13,091 - BaseCase - INFO - click
+2019-02-27 20:25:15,557 - BrowserEngin - INFO - 你选择了Chrome游览器
+2019-02-27 20:25:15,558 - BrowserEngin - INFO - 测试URL是:http://127.0.0.1/forum.php
+2019-02-27 20:25:19,080 - BrowserEngin - INFO - 启动谷歌游览器
+2019-02-27 20:25:21,066 - BrowserEngin - INFO - 打开：http://127.0.0.1/forum.php
+2019-02-27 20:25:22,231 - BrowserEngin - INFO - 窗口最大化
+2019-02-27 20:25:22,241 - BrowserEngin - INFO - 等待10秒
+2019-02-27 20:25:22,640 - BaseCase - INFO - send_keysadmin
+2019-02-27 20:25:23,002 - BaseCase - INFO - send_keysguo123
+2019-02-27 20:25:23,244 - BaseCase - INFO - click
+2019-02-27 20:25:29,369 - BaseCase - INFO - click
+2019-02-27 20:25:29,990 - BaseCase - INFO - click
+2019-02-27 20:25:30,608 - BaseCase - INFO - click
+2019-02-27 20:25:32,090 - BaseCase - INFO - click
+2019-02-27 20:25:32,724 - BaseCase - INFO - click
+2019-02-27 20:25:41,928 - BaseCase - INFO - not click
+2019-02-27 20:25:58,119 - BaseCase - INFO - into frame
+2019-02-27 20:25:58,520 - BaseCase - INFO - click
+2019-02-27 20:25:59,254 - BaseCase - INFO - click
+2019-02-27 20:26:00,374 - BaseCase - INFO - click
+2019-02-27 20:26:01,131 - BaseCase - INFO - click
+2019-02-27 20:26:03,849 - BaseCase - INFO - send_keysguo
+2019-02-27 20:26:04,195 - BaseCase - INFO - send_keys123456
+2019-02-27 20:26:04,395 - BaseCase - INFO - click
+2019-02-27 20:26:10,453 - BaseCase - INFO - click
+2019-02-27 20:26:11,108 - BaseCase - INFO - send_keystitle.....
+2019-02-27 20:26:11,928 - BaseCase - INFO - send_keyshhhhhhhhhfffffffffffffffffffff
+2019-02-27 20:26:12,440 - BaseCase - INFO - click
+2019-02-27 20:26:15,470 - BaseCase - INFO - not click
+2019-02-27 20:26:15,840 - BaseCase - INFO - send_keysfdsjaflsjfl
+2019-02-27 20:26:18,867 - BaseCase - INFO - not click
+2019-02-27 20:26:21,317 - BrowserEngin - INFO - 你选择了Chrome游览器
+2019-02-27 20:26:21,318 - BrowserEngin - INFO - 测试URL是:http://127.0.0.1/forum.php
+2019-02-27 20:26:24,390 - BrowserEngin - INFO - 启动谷歌游览器
+2019-02-27 20:26:26,487 - BrowserEngin - INFO - 打开：http://127.0.0.1/forum.php
+2019-02-27 20:26:27,639 - BrowserEngin - INFO - 窗口最大化
+2019-02-27 20:26:27,643 - BrowserEngin - INFO - 等待10秒
+2019-02-27 20:26:27,978 - BaseCase - INFO - send_keysguo
+2019-02-27 20:26:28,291 - BaseCase - INFO - send_keys123456
+2019-02-27 20:26:28,494 - BaseCase - INFO - click
+2019-02-27 20:26:30,500 - BaseCase - INFO - send_keyshaotest
+2019-02-27 20:26:30,807 - BaseCase - INFO - click
+2019-02-27 20:26:37,166 - BaseCase - INFO - click
+2019-02-27 20:26:44,008 - BaseCase - INFO - click
+2019-02-27 20:26:51,359 - BrowserEngin - INFO - 你选择了Chrome游览器
+2019-02-27 20:26:51,360 - BrowserEngin - INFO - 测试URL是:http://127.0.0.1/forum.php
+2019-02-27 20:26:54,898 - BrowserEngin - INFO - 启动谷歌游览器
+2019-02-27 20:26:57,355 - BrowserEngin - INFO - 打开：http://127.0.0.1/forum.php
+2019-02-27 20:26:58,517 - BrowserEngin - INFO - 窗口最大化
+2019-02-27 20:26:58,527 - BrowserEngin - INFO - 等待10秒
+2019-02-27 20:26:58,863 - BaseCase - INFO - send_keysguo
+2019-02-27 20:26:59,215 - BaseCase - INFO - send_keys123456
+2019-02-27 20:26:59,475 - BaseCase - INFO - click
+2019-02-27 20:27:05,615 - BaseCase - INFO - click
+2019-02-27 20:27:07,086 - BaseCase - INFO - click
+2019-02-27 20:27:08,776 - BaseCase - INFO - click
+2019-02-27 20:27:09,228 - BaseCase - INFO - send_keys喜欢运动的程度
+2019-02-27 20:27:09,513 - BaseCase - INFO - send_keys喜欢
+2019-02-27 20:27:09,825 - BaseCase - INFO - send_keys还可以
+2019-02-27 20:27:10,134 - BaseCase - INFO - send_keys不喜欢
+2019-02-27 20:27:10,485 - BaseCase - INFO - click
+2019-02-27 20:27:12,637 - BaseCase - INFO - click
+2019-02-27 20:27:14,297 - BaseCase - INFO - click
+2019-02-27 20:27:19,541 - BaseCase - INFO - 内容为1.  喜欢
+2019-02-27 20:27:19,811 - BaseCase - INFO - 内容为100.00% (1)
+2019-02-27 20:27:20,060 - BaseCase - INFO - 内容为2.  还可以
+2019-02-27 20:27:20,329 - BaseCase - INFO - 内容为0.00% (0)
+2019-02-27 20:27:20,572 - BaseCase - INFO - 内容为3.  不喜欢
+2019-02-27 20:27:20,833 - BaseCase - INFO - 内容为0.00% (0)
+2019-02-27 20:27:21,034 - BaseCase - INFO - 内容为喜欢运动的程度

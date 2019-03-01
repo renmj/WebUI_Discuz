@@ -1,0 +1,26 @@
+2019-02-28 19:31:09,378 - BrowserEngin - INFO - 你选择了Chrome游览器
+2019-02-28 19:31:09,379 - BrowserEngin - INFO - 测试URL是:http://127.0.0.1/forum.php
+2019-02-28 19:31:12,546 - BrowserEngin - INFO - 启动谷歌游览器
+2019-02-28 19:31:14,476 - BrowserEngin - INFO - 打开：http://127.0.0.1/forum.php
+2019-02-28 19:31:15,622 - BrowserEngin - INFO - 窗口最大化
+2019-02-28 19:31:15,625 - BrowserEngin - INFO - 等待10秒
+2019-02-28 19:31:15,937 - BaseCase - INFO - send_keysguo
+2019-02-28 19:31:16,292 - BaseCase - INFO - send_keys123456
+2019-02-28 19:31:16,489 - BaseCase - INFO - click
+2019-02-28 19:31:22,698 - BaseCase - INFO - click
+2019-02-28 19:31:24,600 - BaseCase - INFO - click
+2019-02-28 19:31:26,281 - BaseCase - INFO - click
+2019-02-28 19:31:26,969 - BaseCase - INFO - send_keys喜欢运动的程度
+2019-02-28 19:31:27,367 - BaseCase - INFO - send_keys喜欢
+2019-02-28 19:31:27,674 - BaseCase - INFO - send_keys还可以
+2019-02-28 19:31:27,982 - BaseCase - INFO - send_keys不喜欢
+2019-02-28 19:31:28,375 - BaseCase - INFO - click
+2019-02-28 19:31:30,692 - BaseCase - INFO - click
+2019-02-28 19:31:32,460 - BaseCase - INFO - click
+2019-02-28 19:31:37,769 - BaseCase - INFO - 内容为1.  喜欢
+2019-02-28 19:31:38,053 - BaseCase - INFO - 内容为100.00% (1)
+2019-02-28 19:31:38,308 - BaseCase - INFO - 内容为2.  还可以
+2019-02-28 19:31:38,580 - BaseCase - INFO - 内容为0.00% (0)
+2019-02-28 19:31:38,828 - BaseCase - INFO - 内容为3.  不喜欢
+2019-02-28 19:31:39,109 - BaseCase - INFO - 内容为0.00% (0)
+2019-02-28 19:31:39,315 - BaseCase - INFO - 内容为喜欢运动的程度

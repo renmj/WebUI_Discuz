@@ -1,0 +1,81 @@
+2019-02-27 19:26:10,986 - BrowserEngin - INFO - 你选择了Chrome游览器
+2019-02-27 19:26:10,987 - BrowserEngin - INFO - 测试URL是:http://127.0.0.1/forum.php
+2019-02-27 19:26:14,235 - BrowserEngin - INFO - 启动谷歌游览器
+2019-02-27 19:26:15,787 - BrowserEngin - INFO - 打开：http://127.0.0.1/forum.php
+2019-02-27 19:26:16,929 - BrowserEngin - INFO - 窗口最大化
+2019-02-27 19:26:16,937 - BrowserEngin - INFO - 等待10秒
+2019-02-27 19:26:27,490 - BaseCase - INFO - <WebUITest.pagesobjets.pageHome.pageHome object at 0x00000000035D9358> page not found element('id', 'kw')元素
+2019-02-27 19:26:27,490 - BaseCase - INFO - not send_keys
+2019-02-27 19:26:37,543 - BaseCase - INFO - not click
+2019-02-27 19:26:37,967 - BaseCase - INFO - get_windows_img
+2019-02-27 19:26:40,333 - BrowserEngin - INFO - 你选择了Chrome游览器
+2019-02-27 19:26:40,333 - BrowserEngin - INFO - 测试URL是:http://127.0.0.1/forum.php
+2019-02-27 19:26:43,796 - BrowserEngin - INFO - 启动谷歌游览器
+2019-02-27 19:26:45,475 - BrowserEngin - INFO - 打开：http://127.0.0.1/forum.php
+2019-02-27 19:26:46,715 - BrowserEngin - INFO - 窗口最大化
+2019-02-27 19:26:46,763 - BrowserEngin - INFO - 等待10秒
+2019-02-27 19:26:47,131 - BaseCase - INFO - send_keysguo
+2019-02-27 19:26:47,464 - BaseCase - INFO - send_keys123456
+2019-02-27 19:26:47,679 - BaseCase - INFO - click
+2019-02-27 19:26:53,994 - BaseCase - INFO - click
+2019-02-27 19:26:54,893 - BaseCase - INFO - send_keystitlettttttt
+2019-02-27 19:26:55,532 - BaseCase - INFO - send_keyscontentttttttttt
+2019-02-27 19:26:58,276 - BaseCase - INFO - click
+2019-02-27 19:26:58,523 - BaseCase - INFO - click
+2019-02-27 19:26:59,177 - BaseCase - INFO - send_keyshello
+2019-02-27 19:26:59,827 - BaseCase - INFO - click
+2019-02-27 19:27:00,591 - BaseCase - INFO - click
+2019-02-27 19:27:03,180 - BrowserEngin - INFO - 你选择了Chrome游览器
+2019-02-27 19:27:03,181 - BrowserEngin - INFO - 测试URL是:http://127.0.0.1/forum.php
+2019-02-27 19:27:06,237 - BrowserEngin - INFO - 启动谷歌游览器
+2019-02-27 19:27:08,442 - BrowserEngin - INFO - 打开：http://127.0.0.1/forum.php
+2019-02-27 19:27:09,599 - BrowserEngin - INFO - 窗口最大化
+2019-02-27 19:27:09,609 - BrowserEngin - INFO - 等待10秒
+2019-02-27 19:27:09,968 - BaseCase - INFO - send_keysadmin
+2019-02-27 19:27:10,295 - BaseCase - INFO - send_keysguo123
+2019-02-27 19:27:10,500 - BaseCase - INFO - click
+2019-02-27 19:27:17,084 - BaseCase - INFO - click
+2019-02-27 19:27:17,615 - BaseCase - INFO - click
+2019-02-27 19:27:18,384 - BaseCase - INFO - click
+2019-02-27 19:27:20,046 - BaseCase - INFO - click
+2019-02-27 19:27:20,708 - BaseCase - INFO - click
+2019-02-27 19:27:32,306 - BaseCase - INFO - click
+2019-02-27 19:27:37,559 - BaseCase - INFO - into frame
+2019-02-27 19:27:38,101 - BaseCase - INFO - click
+2019-02-27 19:27:38,956 - BaseCase - INFO - click
+2019-02-27 19:27:40,172 - BaseCase - INFO - click
+2019-02-27 19:27:41,019 - BaseCase - INFO - click
+2019-02-27 19:27:43,762 - BaseCase - INFO - send_keysguo
+2019-02-27 19:27:44,088 - BaseCase - INFO - send_keys123456
+2019-02-27 19:27:44,292 - BaseCase - INFO - click
+2019-02-27 19:27:50,616 - BaseCase - INFO - click
+2019-02-27 19:27:51,285 - BaseCase - INFO - send_keystitle.....
+2019-02-27 19:27:52,030 - BaseCase - INFO - send_keyshhhhhhhhhfffffffffffffffffffff
+2019-02-27 19:27:52,600 - BaseCase - INFO - click
+2019-02-27 19:27:55,724 - BaseCase - INFO - not click
+2019-02-27 19:28:06,348 - BaseCase - INFO - <WebUITest.pagesobjets.replyPage.ReplyPage object at 0x0000000003711E48> page not found element('id', 'postmessage')元素
+2019-02-27 19:28:06,348 - BaseCase - INFO - not send_keys
+2019-02-27 19:28:09,361 - BaseCase - INFO - not click
+2019-02-27 19:28:11,924 - BrowserEngin - INFO - 你选择了Chrome游览器
+2019-02-27 19:28:11,925 - BrowserEngin - INFO - 测试URL是:http://127.0.0.1/forum.php
+2019-02-27 19:28:15,666 - BrowserEngin - INFO - 启动谷歌游览器
+2019-02-27 19:28:17,319 - BrowserEngin - INFO - 打开：http://127.0.0.1/forum.php
+2019-02-27 19:28:18,965 - BrowserEngin - INFO - 窗口最大化
+2019-02-27 19:28:18,971 - BrowserEngin - INFO - 等待10秒
+2019-02-27 19:28:19,592 - BaseCase - INFO - send_keysguo
+2019-02-27 19:28:19,920 - BaseCase - INFO - send_keys123456
+2019-02-27 19:28:20,127 - BaseCase - INFO - click
+2019-02-27 19:28:22,125 - BaseCase - INFO - send_keyshaotest
+2019-02-27 19:28:27,467 - BaseCase - INFO - click
+2019-02-27 19:28:33,956 - BaseCase - INFO - click
+2019-02-27 19:28:40,941 - BaseCase - INFO - click
+2019-02-27 19:28:48,336 - BrowserEngin - INFO - 你选择了Chrome游览器
+2019-02-27 19:28:48,337 - BrowserEngin - INFO - 测试URL是:http://127.0.0.1/forum.php
+2019-02-27 19:28:51,786 - BrowserEngin - INFO - 启动谷歌游览器
+2019-02-27 19:28:53,651 - BrowserEngin - INFO - 打开：http://127.0.0.1/forum.php
+2019-02-27 19:28:55,176 - BrowserEngin - INFO - 窗口最大化
+2019-02-27 19:28:55,215 - BrowserEngin - INFO - 等待10秒
+2019-02-27 19:28:55,707 - BaseCase - INFO - send_keysguo
+2019-02-27 19:28:56,131 - BaseCase - INFO - send_keys123456
+2019-02-27 19:28:56,407 - BaseCase - INFO - click
+2019-02-27 19:29:07,429 - BaseCase - INFO - not click

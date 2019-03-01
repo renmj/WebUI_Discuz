@@ -1,0 +1,36 @@
+2019-02-28 09:36:17,389 - BrowserEngin - INFO - 你选择了Chrome游览器
+2019-02-28 09:36:17,389 - BrowserEngin - INFO - 测试URL是:http://127.0.0.1/forum.php
+2019-02-28 09:36:21,372 - BrowserEngin - INFO - 启动谷歌游览器
+2019-02-28 09:36:22,921 - BrowserEngin - INFO - 打开：http://127.0.0.1/forum.php
+2019-02-28 09:36:24,130 - BrowserEngin - INFO - 窗口最大化
+2019-02-28 09:36:24,137 - BrowserEngin - INFO - 等待10秒
+2019-02-28 09:36:24,642 - BaseCase - INFO - send_keysadmin
+2019-02-28 09:36:24,975 - BaseCase - INFO - send_keysguo123
+2019-02-28 09:36:25,221 - BaseCase - INFO - click
+2019-02-28 09:36:31,831 - BaseCase - INFO - click
+2019-02-28 09:36:35,143 - BaseCase - INFO - not click
+2019-02-28 09:36:38,333 - BaseCase - INFO - not click
+2019-02-28 09:36:41,601 - BaseCase - INFO - not click
+2019-02-28 09:36:42,006 - BaseCase - INFO - click
+2019-02-28 09:36:43,267 - BaseCase - INFO - <WebUITest.pagesobjets.partPage.PartPage object at 0x00000000037475F8> page not found element(('name', 'admin_password'),)元素
+2019-02-28 09:36:43,268 - BaseCase - INFO - not send_keys
+2019-02-28 09:36:46,301 - BaseCase - INFO - not click
+2019-02-28 09:36:49,411 - BaseCase - INFO - not click
+2019-02-28 09:37:05,328 - BaseCase - INFO - <WebUITest.pagesobjets.partPage.PartPage object at 0x00000000037475F8> page not found element('id', 'main')元素
+2019-02-28 09:37:05,328 - BaseCase - INFO - into frame
+2019-02-28 09:37:08,465 - BaseCase - INFO - not click
+2019-02-28 09:37:11,563 - BaseCase - INFO - not click
+2019-02-28 09:37:14,658 - BaseCase - INFO - not click
+2019-02-28 09:37:17,699 - BaseCase - INFO - not click
+2019-02-28 09:37:28,428 - BaseCase - INFO - <WebUITest.pagesobjets.loginPage.LoginPage object at 0x0000000003747780> page not found element('name', 'username')元素
+2019-02-28 09:37:28,428 - BaseCase - INFO - not send_keys
+2019-02-28 09:37:39,125 - BaseCase - INFO - <WebUITest.pagesobjets.loginPage.LoginPage object at 0x0000000003747780> page not found element('name', 'password')元素
+2019-02-28 09:37:39,125 - BaseCase - INFO - not send_keys
+2019-02-28 09:37:42,141 - BaseCase - INFO - not click
+2019-02-28 09:37:50,235 - BaseCase - INFO - not click
+2019-02-28 09:37:50,781 - BaseCase - INFO - send_keystitle.....
+2019-02-28 09:37:51,409 - BaseCase - INFO - send_keyshhhhhhhhhfffffffffffffffffffff
+2019-02-28 09:37:51,666 - BaseCase - INFO - click
+2019-02-28 09:37:54,808 - BaseCase - INFO - not click
+2019-02-28 09:38:00,154 - BaseCase - INFO - send_keysfdsjaflsjfl
+2019-02-28 09:38:03,242 - BaseCase - INFO - not click

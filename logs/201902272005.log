@@ -1,0 +1,89 @@
+2019-02-27 20:05:29,476 - BrowserEngin - INFO - 你选择了Chrome游览器
+2019-02-27 20:05:29,476 - BrowserEngin - INFO - 测试URL是:http://127.0.0.1/forum.php
+2019-02-27 20:05:32,690 - BrowserEngin - INFO - 启动谷歌游览器
+2019-02-27 20:05:35,227 - BrowserEngin - INFO - 打开：http://127.0.0.1/forum.php
+2019-02-27 20:05:36,485 - BrowserEngin - INFO - 窗口最大化
+2019-02-27 20:05:36,490 - BrowserEngin - INFO - 等待10秒
+2019-02-27 20:05:36,811 - BaseCase - INFO - send_keysguo
+2019-02-27 20:05:37,115 - BaseCase - INFO - send_keys123456
+2019-02-27 20:05:37,326 - BaseCase - INFO - click
+2019-02-27 20:05:48,691 - BaseCase - INFO - click
+2019-02-27 20:05:49,541 - BaseCase - INFO - send_keystitlettttttt
+2019-02-27 20:05:50,086 - BaseCase - INFO - send_keyscontentttttttttt
+2019-02-27 20:05:52,384 - BaseCase - INFO - click
+2019-02-27 20:05:52,619 - BaseCase - INFO - click
+2019-02-27 20:05:53,033 - BaseCase - INFO - send_keyshello
+2019-02-27 20:05:53,813 - BaseCase - INFO - click
+2019-02-27 20:05:54,625 - BaseCase - INFO - click
+2019-02-27 20:05:56,978 - BrowserEngin - INFO - 你选择了Chrome游览器
+2019-02-27 20:05:56,978 - BrowserEngin - INFO - 测试URL是:http://127.0.0.1/forum.php
+2019-02-27 20:05:59,933 - BrowserEngin - INFO - 启动谷歌游览器
+2019-02-27 20:06:01,583 - BrowserEngin - INFO - 打开：http://127.0.0.1/forum.php
+2019-02-27 20:06:03,193 - BrowserEngin - INFO - 窗口最大化
+2019-02-27 20:06:03,199 - BrowserEngin - INFO - 等待10秒
+2019-02-27 20:06:03,535 - BaseCase - INFO - send_keysadmin
+2019-02-27 20:06:03,851 - BaseCase - INFO - send_keysguo123
+2019-02-27 20:06:04,052 - BaseCase - INFO - click
+2019-02-27 20:06:15,181 - BaseCase - INFO - click
+2019-02-27 20:06:16,541 - BaseCase - INFO - click
+2019-02-27 20:06:17,090 - BaseCase - INFO - click
+2019-02-27 20:06:18,473 - BaseCase - INFO - click
+2019-02-27 20:06:18,983 - BaseCase - INFO - click
+2019-02-27 20:06:28,174 - BaseCase - INFO - not click
+2019-02-27 20:06:44,038 - BaseCase - INFO - <WebUITest.pagesobjets.partPage.PartPage object at 0x00000000036768D0> page not found element('id', 'main')元素
+2019-02-27 20:06:44,053 - BaseCase - INFO - into frame
+2019-02-27 20:06:47,209 - BaseCase - INFO - not click
+2019-02-27 20:06:50,348 - BaseCase - INFO - not click
+2019-02-27 20:06:53,545 - BaseCase - INFO - not click
+2019-02-27 20:06:56,702 - BaseCase - INFO - not click
+2019-02-27 20:07:07,657 - BaseCase - INFO - <WebUITest.pagesobjets.loginPage.LoginPage object at 0x000000000378F7B8> page not found element('name', 'username')元素
+2019-02-27 20:07:07,657 - BaseCase - INFO - not send_keys
+2019-02-27 20:07:21,068 - BaseCase - INFO - <WebUITest.pagesobjets.loginPage.LoginPage object at 0x000000000378F7B8> page not found element('name', 'password')元素
+2019-02-27 20:07:21,068 - BaseCase - INFO - not send_keys
+2019-02-27 20:07:24,118 - BaseCase - INFO - not click
+2019-02-27 20:07:32,388 - BaseCase - INFO - not click
+2019-02-27 20:07:32,977 - BaseCase - INFO - send_keystitle.....
+2019-02-27 20:07:33,773 - BaseCase - INFO - send_keyshhhhhhhhhfffffffffffffffffffff
+2019-02-27 20:07:36,441 - BaseCase - INFO - click
+2019-02-27 20:07:36,690 - BaseCase - INFO - click
+2019-02-27 20:07:37,295 - BaseCase - INFO - send_keysfdsjaflsjfl
+2019-02-27 20:07:38,169 - BaseCase - INFO - click
+2019-02-27 20:07:40,562 - BrowserEngin - INFO - 你选择了Chrome游览器
+2019-02-27 20:07:40,562 - BrowserEngin - INFO - 测试URL是:http://127.0.0.1/forum.php
+2019-02-27 20:07:43,547 - BrowserEngin - INFO - 启动谷歌游览器
+2019-02-27 20:07:45,232 - BrowserEngin - INFO - 打开：http://127.0.0.1/forum.php
+2019-02-27 20:07:46,468 - BrowserEngin - INFO - 窗口最大化
+2019-02-27 20:07:46,478 - BrowserEngin - INFO - 等待10秒
+2019-02-27 20:07:46,837 - BaseCase - INFO - send_keysguo
+2019-02-27 20:07:47,163 - BaseCase - INFO - send_keys123456
+2019-02-27 20:07:47,375 - BaseCase - INFO - click
+2019-02-27 20:07:49,330 - BaseCase - INFO - send_keyshaotest
+2019-02-27 20:07:49,626 - BaseCase - INFO - click
+2019-02-27 20:07:56,024 - BaseCase - INFO - click
+2019-02-27 20:08:02,892 - BaseCase - INFO - click
+2019-02-27 20:08:10,241 - BrowserEngin - INFO - 你选择了Chrome游览器
+2019-02-27 20:08:10,241 - BrowserEngin - INFO - 测试URL是:http://127.0.0.1/forum.php
+2019-02-27 20:08:13,101 - BrowserEngin - INFO - 启动谷歌游览器
+2019-02-27 20:08:14,579 - BrowserEngin - INFO - 打开：http://127.0.0.1/forum.php
+2019-02-27 20:08:15,795 - BrowserEngin - INFO - 窗口最大化
+2019-02-27 20:08:15,802 - BrowserEngin - INFO - 等待10秒
+2019-02-27 20:08:16,137 - BaseCase - INFO - send_keysguo
+2019-02-27 20:08:16,453 - BaseCase - INFO - send_keys123456
+2019-02-27 20:08:16,675 - BaseCase - INFO - click
+2019-02-27 20:08:22,747 - BaseCase - INFO - click
+2019-02-27 20:08:24,219 - BaseCase - INFO - click
+2019-02-27 20:08:25,746 - BaseCase - INFO - click
+2019-02-27 20:08:26,546 - BaseCase - INFO - send_keys喜欢运动的程度
+2019-02-27 20:08:27,068 - BaseCase - INFO - send_keys喜欢
+2019-02-27 20:08:27,682 - BaseCase - INFO - send_keys还可以
+2019-02-27 20:08:28,078 - BaseCase - INFO - send_keys不喜欢
+2019-02-27 20:08:28,421 - BaseCase - INFO - click
+2019-02-27 20:08:30,469 - BaseCase - INFO - click
+2019-02-27 20:08:32,000 - BaseCase - INFO - click
+2019-02-27 20:08:37,240 - BaseCase - INFO - 内容为1.  喜欢
+2019-02-27 20:08:37,543 - BaseCase - INFO - 内容为100.00% (1)
+2019-02-27 20:08:37,809 - BaseCase - INFO - 内容为2.  还可以
+2019-02-27 20:08:38,062 - BaseCase - INFO - 内容为0.00% (0)
+2019-02-27 20:08:38,300 - BaseCase - INFO - 内容为3.  不喜欢
+2019-02-27 20:08:38,566 - BaseCase - INFO - 内容为0.00% (0)
+2019-02-27 20:08:38,753 - BaseCase - INFO - 内容为喜欢运动的程度

@@ -1,0 +1,26 @@
+2019-02-28 19:25:54,428 - BrowserEngin - INFO - 你选择了Chrome游览器
+2019-02-28 19:25:54,429 - BrowserEngin - INFO - 测试URL是:http://127.0.0.1/forum.php
+2019-02-28 19:25:57,579 - BrowserEngin - INFO - 启动谷歌游览器
+2019-02-28 19:25:58,976 - BrowserEngin - INFO - 打开：http://127.0.0.1/forum.php
+2019-02-28 19:26:00,114 - BrowserEngin - INFO - 窗口最大化
+2019-02-28 19:26:00,118 - BrowserEngin - INFO - 等待10秒
+2019-02-28 19:26:00,458 - BaseCase - INFO - send_keysadmin
+2019-02-28 19:26:00,787 - BaseCase - INFO - send_keysguo123
+2019-02-28 19:26:01,014 - BaseCase - INFO - click
+2019-02-28 19:26:07,521 - BaseCase - INFO - click
+2019-02-28 19:26:08,093 - BaseCase - INFO - click
+2019-02-28 19:26:08,820 - BaseCase - INFO - click
+2019-02-28 19:26:10,611 - BaseCase - INFO - click
+2019-02-28 19:26:11,601 - BaseCase - INFO - click
+2019-02-28 19:26:15,826 - BaseCase - ERROR - not click
+2019-02-28 19:26:31,461 - BaseCase - ERROR - <WebUITest.pagesobjets.partPage.PartPage object at 0x000000000364B438> page not found element('id', 'main')元素
+2019-02-28 19:26:31,469 - BaseCase - INFO - into frame
+2019-02-28 19:26:34,519 - BaseCase - ERROR - not click
+2019-02-28 19:26:37,574 - BaseCase - ERROR - not click
+2019-02-28 19:26:40,617 - BaseCase - ERROR - not click
+2019-02-28 19:26:43,654 - BaseCase - ERROR - not click
+2019-02-28 19:26:54,466 - BaseCase - ERROR - <WebUITest.pagesobjets.loginPage.LoginPage object at 0x0000000003621F60> page not found element('name', 'username')元素
+2019-02-28 19:26:54,467 - BaseCase - ERROR - not send_keys
+2019-02-28 19:27:05,207 - BaseCase - ERROR - <WebUITest.pagesobjets.loginPage.LoginPage object at 0x0000000003621F60> page not found element('name', 'password')元素
+2019-02-28 19:27:05,207 - BaseCase - ERROR - not send_keys
+2019-02-28 19:27:08,272 - BaseCase - ERROR - not click

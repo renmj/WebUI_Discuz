@@ -1,0 +1,30 @@
+2019-02-27 21:52:32,588 - BrowserEngin - INFO - 你选择了Chrome游览器
+2019-02-27 21:52:32,589 - BrowserEngin - INFO - 测试URL是:http://127.0.0.1/forum.php
+2019-02-27 21:52:36,080 - BrowserEngin - INFO - 启动谷歌游览器
+2019-02-27 21:52:37,764 - BrowserEngin - INFO - 打开：http://127.0.0.1/forum.php
+2019-02-27 21:52:38,911 - BrowserEngin - INFO - 窗口最大化
+2019-02-27 21:52:38,920 - BrowserEngin - INFO - 等待10秒
+2019-02-27 21:52:39,440 - BaseCase - INFO - send_keysadmin
+2019-02-27 21:52:39,813 - BaseCase - INFO - send_keysguo123
+2019-02-27 21:52:40,063 - BaseCase - INFO - click
+2019-02-27 21:52:46,860 - BaseCase - INFO - click
+2019-02-27 21:52:47,395 - BaseCase - INFO - click
+2019-02-27 21:52:48,255 - BaseCase - INFO - click
+2019-02-27 21:52:50,280 - BaseCase - INFO - click
+2019-02-27 21:52:51,040 - BaseCase - INFO - click
+2019-02-27 21:53:02,759 - BaseCase - INFO - click
+2019-02-27 21:53:07,979 - BaseCase - INFO - into frame
+2019-02-27 21:53:08,542 - BaseCase - INFO - click
+2019-02-27 21:53:09,409 - BaseCase - INFO - click
+2019-02-27 21:53:10,698 - BaseCase - INFO - click
+2019-02-27 21:53:11,654 - BaseCase - INFO - click
+2019-02-27 21:53:14,595 - BaseCase - INFO - send_keysguo
+2019-02-27 21:53:15,208 - BaseCase - INFO - send_keys123456
+2019-02-27 21:53:15,477 - BaseCase - INFO - click
+2019-02-27 21:53:21,710 - BaseCase - INFO - click
+2019-02-27 21:53:22,598 - BaseCase - INFO - send_keystitle.....
+2019-02-27 21:53:23,435 - BaseCase - INFO - send_keyshhhhhhhhhfffffffffffffffffffff
+2019-02-27 21:53:23,969 - BaseCase - INFO - click
+2019-02-27 21:53:24,095 - BaseCase - INFO - click
+2019-02-27 21:53:24,503 - BaseCase - INFO - send_keysfdsjaflsjfl
+2019-02-27 21:53:27,583 - BaseCase - INFO - not click

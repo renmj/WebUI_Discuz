@@ -1,0 +1,72 @@
+2019-02-27 19:33:19,088 - BrowserEngin - INFO - 你选择了Chrome游览器
+2019-02-27 19:33:19,089 - BrowserEngin - INFO - 测试URL是:http://127.0.0.1/forum.php
+2019-02-27 19:33:22,334 - BrowserEngin - INFO - 启动谷歌游览器
+2019-02-27 19:33:23,843 - BrowserEngin - INFO - 打开：http://127.0.0.1/forum.php
+2019-02-27 19:33:24,997 - BrowserEngin - INFO - 窗口最大化
+2019-02-27 19:33:25,000 - BrowserEngin - INFO - 等待10秒
+2019-02-27 19:33:35,554 - BaseCase - INFO - <WebUITest.pagesobjets.pageHome.pageHome object at 0x00000000035E93C8> page not found element('id', 'kw')元素
+2019-02-27 19:33:35,555 - BaseCase - INFO - not send_keys
+2019-02-27 19:33:45,552 - BaseCase - INFO - not click
+2019-02-27 19:33:45,947 - BaseCase - INFO - get_windows_img
+2019-02-27 19:33:48,287 - BrowserEngin - INFO - 你选择了Chrome游览器
+2019-02-27 19:33:48,288 - BrowserEngin - INFO - 测试URL是:http://127.0.0.1/forum.php
+2019-02-27 19:33:52,171 - BrowserEngin - INFO - 启动谷歌游览器
+2019-02-27 19:33:53,740 - BrowserEngin - INFO - 打开：http://127.0.0.1/forum.php
+2019-02-27 19:33:54,916 - BrowserEngin - INFO - 窗口最大化
+2019-02-27 19:33:54,937 - BrowserEngin - INFO - 等待10秒
+2019-02-27 19:33:55,263 - BaseCase - INFO - send_keysguo
+2019-02-27 19:33:55,567 - BaseCase - INFO - send_keys123456
+2019-02-27 19:33:55,772 - BaseCase - INFO - click
+2019-02-27 19:34:02,389 - BaseCase - INFO - click
+2019-02-27 19:34:03,126 - BaseCase - INFO - send_keystitlettttttt
+2019-02-27 19:34:03,605 - BaseCase - INFO - send_keyscontentttttttttt
+2019-02-27 19:34:05,868 - BaseCase - INFO - click
+2019-02-27 19:34:06,106 - BaseCase - INFO - click
+2019-02-27 19:34:06,700 - BaseCase - INFO - send_keyshello
+2019-02-27 19:34:07,299 - BaseCase - INFO - click
+2019-02-27 19:34:08,039 - BaseCase - INFO - click
+2019-02-27 19:34:10,367 - BrowserEngin - INFO - 你选择了Chrome游览器
+2019-02-27 19:34:10,368 - BrowserEngin - INFO - 测试URL是:http://127.0.0.1/forum.php
+2019-02-27 19:34:13,998 - BrowserEngin - INFO - 启动谷歌游览器
+2019-02-27 19:34:16,026 - BrowserEngin - INFO - 打开：http://127.0.0.1/forum.php
+2019-02-27 19:34:17,286 - BrowserEngin - INFO - 窗口最大化
+2019-02-27 19:34:17,307 - BrowserEngin - INFO - 等待10秒
+2019-02-27 19:34:17,659 - BaseCase - INFO - send_keysadmin
+2019-02-27 19:34:17,964 - BaseCase - INFO - send_keysguo123
+2019-02-27 19:34:18,181 - BaseCase - INFO - click
+2019-02-27 19:34:24,541 - BaseCase - INFO - click
+2019-02-27 19:34:25,110 - BaseCase - INFO - click
+2019-02-27 19:34:26,136 - BaseCase - INFO - click
+2019-02-27 19:34:28,156 - BaseCase - INFO - click
+2019-02-27 19:34:29,414 - BaseCase - INFO - click
+2019-02-27 19:34:38,643 - BaseCase - INFO - not click
+2019-02-27 19:34:43,844 - BaseCase - INFO - into frame
+2019-02-27 19:34:44,301 - BaseCase - INFO - click
+2019-02-27 19:34:45,019 - BaseCase - INFO - click
+2019-02-27 19:34:46,169 - BaseCase - INFO - click
+2019-02-27 19:34:46,819 - BaseCase - INFO - click
+2019-02-27 19:34:49,572 - BaseCase - INFO - send_keysguo
+2019-02-27 19:34:49,874 - BaseCase - INFO - send_keys123456
+2019-02-27 19:34:50,066 - BaseCase - INFO - click
+2019-02-27 19:34:56,094 - BaseCase - INFO - click
+2019-02-27 19:34:56,804 - BaseCase - INFO - send_keystitle.....
+2019-02-27 19:34:58,010 - BaseCase - INFO - send_keyshhhhhhhhhfffffffffffffffffffff
+2019-02-27 19:34:58,689 - BaseCase - INFO - click
+2019-02-27 19:35:01,817 - BaseCase - INFO - not click
+2019-02-27 19:35:12,440 - BaseCase - INFO - <WebUITest.pagesobjets.replyPage.ReplyPage object at 0x000000000373FC50> page not found element('id', 'postmessage')元素
+2019-02-27 19:35:12,440 - BaseCase - INFO - not send_keys
+2019-02-27 19:35:15,467 - BaseCase - INFO - not click
+2019-02-27 19:35:17,984 - BrowserEngin - INFO - 你选择了Chrome游览器
+2019-02-27 19:35:17,985 - BrowserEngin - INFO - 测试URL是:http://127.0.0.1/forum.php
+2019-02-27 19:35:21,194 - BrowserEngin - INFO - 启动谷歌游览器
+2019-02-27 19:35:22,777 - BrowserEngin - INFO - 打开：http://127.0.0.1/forum.php
+2019-02-27 19:35:30,788 - BrowserEngin - INFO - 窗口最大化
+2019-02-27 19:35:30,791 - BrowserEngin - INFO - 等待10秒
+2019-02-27 19:35:36,801 - BaseCase - INFO - <WebUITest.pagesobjets.loginPage.LoginPage object at 0x0000000003611080> page not found element('name', 'username')元素
+2019-02-27 19:35:36,801 - BaseCase - INFO - not send_keys
+2019-02-27 19:35:42,814 - BaseCase - INFO - <WebUITest.pagesobjets.loginPage.LoginPage object at 0x0000000003611080> page not found element('name', 'password')元素
+2019-02-27 19:35:42,814 - BaseCase - INFO - not send_keys
+2019-02-27 19:35:46,816 - BaseCase - INFO - not click
+2019-02-27 19:35:49,279 - BrowserEngin - INFO - 你选择了Chrome游览器
+2019-02-27 19:35:49,279 - BrowserEngin - INFO - 测试URL是:http://127.0.0.1/forum.php
+2019-02-27 19:35:52,517 - BrowserEngin - INFO - 启动谷歌游览器

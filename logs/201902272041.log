@@ -1,0 +1,134 @@
+2019-02-27 20:41:14,280 - BrowserEngin - INFO - 你选择了Chrome游览器
+2019-02-27 20:41:14,281 - BrowserEngin - INFO - 测试URL是:http://127.0.0.1/forum.php
+2019-02-27 20:41:17,864 - BrowserEngin - INFO - 启动谷歌游览器
+2019-02-27 20:41:20,045 - BrowserEngin - INFO - 打开：http://127.0.0.1/forum.php
+2019-02-27 20:41:21,205 - BrowserEngin - INFO - 窗口最大化
+2019-02-27 20:41:21,212 - BrowserEngin - INFO - 等待10秒
+2019-02-27 20:41:21,587 - BaseCase - INFO - send_keysguo
+2019-02-27 20:41:21,987 - BaseCase - INFO - send_keys123456
+2019-02-27 20:41:22,238 - BaseCase - INFO - click
+2019-02-27 20:41:28,658 - BaseCase - INFO - click
+2019-02-27 20:41:29,833 - BaseCase - INFO - send_keystitlettttttt
+2019-02-27 20:41:30,774 - BaseCase - INFO - send_keyscontenttttttttttttttttttttt
+2019-02-27 20:41:33,121 - BaseCase - INFO - click
+2019-02-27 20:41:33,406 - BaseCase - INFO - click
+2019-02-27 20:41:33,948 - BaseCase - INFO - send_keyshello
+2019-02-27 20:41:34,865 - BaseCase - INFO - click
+2019-02-27 20:41:35,831 - BaseCase - INFO - click
+2019-02-27 20:41:38,208 - BrowserEngin - INFO - 你选择了Chrome游览器
+2019-02-27 20:41:38,208 - BrowserEngin - INFO - 测试URL是:http://127.0.0.1/forum.php
+2019-02-27 20:41:41,552 - BrowserEngin - INFO - 启动谷歌游览器
+2019-02-27 20:41:43,530 - BrowserEngin - INFO - 打开：http://127.0.0.1/forum.php
+2019-02-27 20:41:44,720 - BrowserEngin - INFO - 窗口最大化
+2019-02-27 20:41:44,732 - BrowserEngin - INFO - 等待10秒
+2019-02-27 20:41:45,341 - BaseCase - INFO - send_keysadmin
+2019-02-27 20:41:45,737 - BaseCase - INFO - send_keysguo123
+2019-02-27 20:41:45,971 - BaseCase - INFO - click
+2019-02-27 20:41:46,294 - BrowserEngin - INFO - 你选择了Chrome游览器
+2019-02-27 20:41:46,295 - BrowserEngin - INFO - 测试URL是:http://127.0.0.1/forum.php
+2019-02-27 20:41:50,865 - BrowserEngin - INFO - 启动谷歌游览器
+2019-02-27 20:41:53,442 - BaseCase - INFO - click
+2019-02-27 20:41:55,236 - BrowserEngin - INFO - 打开：http://127.0.0.1/forum.php
+2019-02-27 20:41:55,242 - BaseCase - INFO - click
+2019-02-27 20:41:56,165 - BaseCase - INFO - click
+2019-02-27 20:41:56,591 - BrowserEngin - INFO - 窗口最大化
+2019-02-27 20:41:56,645 - BrowserEngin - INFO - 等待10秒
+2019-02-27 20:41:57,301 - BaseCase - INFO - send_keysguo
+2019-02-27 20:41:58,333 - BaseCase - INFO - click
+2019-02-27 20:41:58,512 - BaseCase - INFO - send_keys123456
+2019-02-27 20:41:59,337 - BaseCase - INFO - click
+2019-02-27 20:41:59,516 - BaseCase - INFO - click
+2019-02-27 20:42:07,988 - BaseCase - INFO - click
+2019-02-27 20:42:09,188 - BaseCase - INFO - not click
+2019-02-27 20:42:12,402 - BrowserEngin - INFO - 你选择了Chrome游览器
+2019-02-27 20:42:12,403 - BrowserEngin - INFO - 测试URL是:http://127.0.0.1/forum.php
+2019-02-27 20:42:16,677 - BrowserEngin - INFO - 启动谷歌游览器
+2019-02-27 20:42:18,853 - BrowserEngin - INFO - 打开：http://127.0.0.1/forum.php
+2019-02-27 20:42:20,263 - BrowserEngin - INFO - 窗口最大化
+2019-02-27 20:42:20,286 - BrowserEngin - INFO - 等待10秒
+2019-02-27 20:42:20,681 - BaseCase - INFO - <WebUITest.pagesobjets.partPage.PartPage object at 0x0000000003649A20> page not found element('id', 'main')元素
+2019-02-27 20:42:21,026 - BaseCase - INFO - send_keysadmin
+2019-02-27 20:42:21,713 - BaseCase - INFO - send_keysguo123
+2019-02-27 20:42:22,111 - BaseCase - INFO - click
+2019-02-27 20:42:29,641 - BrowserEngin - INFO - 你选择了Chrome游览器
+2019-02-27 20:42:29,642 - BrowserEngin - INFO - 测试URL是:http://127.0.0.1/forum.php
+2019-02-27 20:42:29,989 - BaseCase - INFO - click
+2019-02-27 20:42:31,333 - BaseCase - INFO - click
+2019-02-27 20:42:33,080 - BaseCase - INFO - click
+2019-02-27 20:42:34,190 - BrowserEngin - INFO - 启动谷歌游览器
+2019-02-27 20:42:36,384 - BaseCase - INFO - click
+2019-02-27 20:42:37,055 - BrowserEngin - INFO - 打开：http://127.0.0.1/forum.php
+2019-02-27 20:42:37,713 - BaseCase - INFO - click
+2019-02-27 20:42:38,520 - BrowserEngin - INFO - 窗口最大化
+2019-02-27 20:42:38,525 - BrowserEngin - INFO - 等待10秒
+2019-02-27 20:42:38,968 - BaseCase - INFO - send_keysguo
+2019-02-27 20:42:39,697 - BaseCase - INFO - send_keys123456
+2019-02-27 20:42:42,549 - BaseCase - INFO - click
+2019-02-27 20:42:43,880 - BaseCase - INFO - send_keyshaotest
+2019-02-27 20:42:44,435 - BaseCase - INFO - click
+2019-02-27 20:42:47,259 - BaseCase - INFO - not click
+2019-02-27 20:42:50,948 - BaseCase - INFO - click
+2019-02-27 20:42:58,125 - BaseCase - INFO - <WebUITest.pagesobjets.partPage.PartPage object at 0x0000000003666208> page not found element('id', 'main')元素
+2019-02-27 20:42:59,081 - BaseCase - INFO - click
+2019-02-27 20:43:01,474 - BrowserEngin - INFO - 你选择了Chrome游览器
+2019-02-27 20:43:01,475 - BrowserEngin - INFO - 测试URL是:http://127.0.0.1/forum.php
+2019-02-27 20:43:05,077 - BrowserEngin - INFO - 启动谷歌游览器
+2019-02-27 20:43:06,400 - BrowserEngin - INFO - 你选择了Chrome游览器
+2019-02-27 20:43:06,401 - BrowserEngin - INFO - 测试URL是:http://127.0.0.1/forum.php
+2019-02-27 20:43:07,041 - BrowserEngin - INFO - 你选择了Chrome游览器
+2019-02-27 20:43:07,041 - BrowserEngin - INFO - 测试URL是:http://127.0.0.1/forum.php
+2019-02-27 20:43:09,848 - BrowserEngin - INFO - 启动谷歌游览器
+2019-02-27 20:43:11,490 - BrowserEngin - INFO - 启动谷歌游览器
+2019-02-27 20:43:16,554 - BrowserEngin - INFO - 打开：http://127.0.0.1/forum.php
+2019-02-27 20:43:17,557 - BrowserEngin - INFO - 打开：http://127.0.0.1/forum.php
+2019-02-27 20:43:17,947 - BrowserEngin - INFO - 窗口最大化
+2019-02-27 20:43:17,957 - BrowserEngin - INFO - 等待10秒
+2019-02-27 20:43:18,587 - BaseCase - INFO - send_keysguo
+2019-02-27 20:43:18,964 - BrowserEngin - INFO - 窗口最大化
+2019-02-27 20:43:19,004 - BrowserEngin - INFO - 等待10秒
+2019-02-27 20:43:19,416 - BaseCase - INFO - send_keys123456
+2019-02-27 20:43:19,933 - BaseCase - INFO - send_keysguo
+2019-02-27 20:43:20,044 - BaseCase - INFO - click
+2019-02-27 20:43:22,652 - BaseCase - INFO - send_keys123456
+2019-02-27 20:43:23,133 - BaseCase - INFO - click
+2019-02-27 20:43:28,364 - BaseCase - INFO - click
+2019-02-27 20:43:31,885 - BaseCase - INFO - click
+2019-02-27 20:43:31,936 - BaseCase - INFO - click
+2019-02-27 20:43:34,597 - BaseCase - INFO - click
+2019-02-27 20:43:35,053 - BaseCase - INFO - click
+2019-02-27 20:43:36,619 - BaseCase - INFO - send_keys喜欢运动的程度
+2019-02-27 20:43:37,734 - BaseCase - INFO - click
+2019-02-27 20:43:37,760 - BaseCase - INFO - send_keys喜欢
+2019-02-27 20:43:38,570 - BaseCase - INFO - send_keys还可以
+2019-02-27 20:43:38,847 - BaseCase - INFO - send_keys喜欢运动的程度
+2019-02-27 20:43:39,225 - BaseCase - INFO - send_keys不喜欢
+2019-02-27 20:43:39,473 - BaseCase - INFO - send_keys喜欢
+2019-02-27 20:43:39,968 - BaseCase - INFO - click
+2019-02-27 20:43:40,547 - BaseCase - INFO - send_keys还可以
+2019-02-27 20:43:41,116 - BaseCase - INFO - send_keys不喜欢
+2019-02-27 20:43:41,754 - BaseCase - INFO - click
+2019-02-27 20:43:43,671 - BaseCase - INFO - click
+2019-02-27 20:43:45,296 - BaseCase - INFO - not click
+2019-02-27 20:43:45,873 - BaseCase - INFO - click
+2019-02-27 20:43:48,358 - BaseCase - INFO - not click
+2019-02-27 20:43:51,254 - BaseCase - INFO - 内容为1.  喜欢
+2019-02-27 20:43:52,051 - BaseCase - INFO - 内容为100.00% (1)
+2019-02-27 20:43:52,545 - BaseCase - INFO - 内容为2.  还可以
+2019-02-27 20:43:52,807 - BaseCase - INFO - 内容为0.00% (0)
+2019-02-27 20:43:53,166 - BaseCase - INFO - 内容为3.  不喜欢
+2019-02-27 20:43:53,711 - BaseCase - INFO - 内容为0.00% (0)
+2019-02-27 20:43:54,000 - BaseCase - INFO - 内容为喜欢运动的程度
+2019-02-27 20:44:04,127 - BaseCase - INFO - <WebUITest.pagesobjets.votePage.VotePage object at 0x0000000003711E10> page not found element('xpath', "//*[@class='pcht']/table/tbody/tr[1]")元素
+2019-02-27 20:44:04,127 - BaseCase - INFO - 没有找到
+2019-02-27 20:44:14,732 - BaseCase - INFO - <WebUITest.pagesobjets.votePage.VotePage object at 0x0000000003711E10> page not found element('xpath', "//*[@class='pcht']/table/tbody/tr[2]")元素
+2019-02-27 20:44:14,732 - BaseCase - INFO - 没有找到
+2019-02-27 20:44:25,510 - BaseCase - INFO - <WebUITest.pagesobjets.votePage.VotePage object at 0x0000000003711E10> page not found element('xpath', "//*[@class='pcht']/table/tbody/tr[3]")元素
+2019-02-27 20:44:25,510 - BaseCase - INFO - 没有找到
+2019-02-27 20:44:36,243 - BaseCase - INFO - <WebUITest.pagesobjets.votePage.VotePage object at 0x0000000003711E10> page not found element('xpath', "//*[@class='pcht']/table/tbody/tr[4]")元素
+2019-02-27 20:44:36,243 - BaseCase - INFO - 没有找到
+2019-02-27 20:44:46,824 - BaseCase - INFO - <WebUITest.pagesobjets.votePage.VotePage object at 0x0000000003711E10> page not found element('xpath', "//*[@class='pcht']/table/tbody/tr[5]")元素
+2019-02-27 20:44:46,824 - BaseCase - INFO - 没有找到
+2019-02-27 20:44:57,495 - BaseCase - INFO - <WebUITest.pagesobjets.votePage.VotePage object at 0x0000000003711E10> page not found element('xpath', "//*[@class='pcht']/table/tbody/tr[6]")元素
+2019-02-27 20:44:57,495 - BaseCase - INFO - 没有找到
+2019-02-27 20:45:08,125 - BaseCase - INFO - <WebUITest.pagesobjets.votePage.VotePage object at 0x0000000003711E10> page not found element('id', 'thread_subject')元素
+2019-02-27 20:45:08,125 - BaseCase - INFO - 没有找到

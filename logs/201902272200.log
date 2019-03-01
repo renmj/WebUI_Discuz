@@ -1,0 +1,33 @@
+2019-02-27 22:00:12,286 - BrowserEngin - INFO - 你选择了Chrome游览器
+2019-02-27 22:00:12,287 - BrowserEngin - INFO - 测试URL是:http://127.0.0.1/forum.php
+2019-02-27 22:00:15,451 - BrowserEngin - INFO - 启动谷歌游览器
+2019-02-27 22:00:17,351 - BrowserEngin - INFO - 打开：http://127.0.0.1/forum.php
+2019-02-27 22:00:18,541 - BrowserEngin - INFO - 窗口最大化
+2019-02-27 22:00:18,562 - BrowserEngin - INFO - 等待10秒
+2019-02-27 22:00:19,071 - BaseCase - INFO - send_keysadmin
+2019-02-27 22:00:19,516 - BaseCase - INFO - send_keysguo123
+2019-02-27 22:00:19,785 - BaseCase - INFO - click
+2019-02-27 22:00:26,209 - BaseCase - INFO - click
+2019-02-27 22:00:26,797 - BaseCase - INFO - click
+2019-02-27 22:00:27,538 - BaseCase - INFO - click
+2019-02-27 22:00:29,263 - BaseCase - INFO - click
+2019-02-27 22:00:29,907 - BaseCase - INFO - click
+2019-02-27 22:00:39,086 - BaseCase - INFO - not click
+2019-02-27 22:00:54,705 - BaseCase - INFO - <WebUITest.pagesobjets.partPage.PartPage object at 0x000000000365B748> page not found element('id', 'main')元素
+2019-02-27 22:00:54,713 - BaseCase - INFO - into frame
+2019-02-27 22:00:57,757 - BaseCase - INFO - not click
+2019-02-27 22:01:00,832 - BaseCase - INFO - not click
+2019-02-27 22:01:03,904 - BaseCase - INFO - not click
+2019-02-27 22:01:06,934 - BaseCase - INFO - not click
+2019-02-27 22:01:20,212 - BaseCase - INFO - <WebUITest.pagesobjets.loginPage.LoginPage object at 0x000000000365B9B0> page not found element('name', 'username')元素
+2019-02-27 22:01:20,212 - BaseCase - INFO - not send_keys
+2019-02-27 22:01:30,825 - BaseCase - INFO - <WebUITest.pagesobjets.loginPage.LoginPage object at 0x000000000365B9B0> page not found element('name', 'password')元素
+2019-02-27 22:01:30,825 - BaseCase - INFO - not send_keys
+2019-02-27 22:01:33,841 - BaseCase - INFO - not click
+2019-02-27 22:01:42,028 - BaseCase - INFO - not click
+2019-02-27 22:01:42,866 - BaseCase - INFO - send_keystitle.....
+2019-02-27 22:01:43,715 - BaseCase - INFO - send_keyshhhhhhhhhfffffffffffffffffffff
+2019-02-27 22:01:46,452 - BaseCase - INFO - click
+2019-02-27 22:01:46,906 - BaseCase - INFO - click
+2019-02-27 22:01:47,457 - BaseCase - INFO - send_keysfdsjaflsjfl
+2019-02-27 22:01:47,696 - BaseCase - INFO - click

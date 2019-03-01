@@ -1,0 +1,29 @@
+2019-02-28 16:24:51,081 - BrowserEngin - INFO - 你选择了Chrome游览器
+2019-02-28 16:24:51,082 - BrowserEngin - INFO - 测试URL是:http://127.0.0.1/forum.php
+2019-02-28 16:24:57,108 - BrowserEngin - INFO - 启动谷歌游览器
+2019-02-28 16:24:59,717 - BrowserEngin - INFO - 打开：http://127.0.0.1/forum.php
+2019-02-28 16:25:00,940 - BrowserEngin - INFO - 窗口最大化
+2019-02-28 16:25:00,946 - BrowserEngin - INFO - 等待10秒
+2019-02-28 16:25:01,434 - BaseCase - INFO - send_keysadmin
+2019-02-28 16:25:01,791 - BaseCase - INFO - send_keysguo123
+2019-02-28 16:25:02,020 - BaseCase - INFO - click
+2019-02-28 16:25:08,525 - BaseCase - INFO - click
+2019-02-28 16:25:11,657 - BaseCase - ERROR - not click
+2019-02-28 16:25:14,727 - BaseCase - ERROR - not click
+2019-02-28 16:25:17,732 - BaseCase - ERROR - not click
+2019-02-28 16:25:18,138 - BaseCase - INFO - click
+2019-02-28 16:25:22,329 - BaseCase - ERROR - not click
+2019-02-28 16:25:40,889 - BaseCase - INFO - into frame
+2019-02-28 16:25:41,331 - BaseCase - INFO - click
+2019-02-28 16:25:42,152 - BaseCase - INFO - click
+2019-02-28 16:25:43,311 - BaseCase - INFO - click
+2019-02-28 16:25:44,039 - BaseCase - INFO - click
+2019-02-28 16:25:54,663 - BaseCase - INFO - send_keysguo
+2019-02-28 16:25:55,008 - BaseCase - INFO - send_keys123456
+2019-02-28 16:25:55,250 - BaseCase - INFO - click
+2019-02-28 16:26:03,356 - BaseCase - ERROR - not click
+2019-02-28 16:26:13,984 - BaseCase - ERROR - <WebUITest.pagesobjets.fatiePage.FaTiePage object at 0x0000000003628A90> page not found element('id', 'subject')元素
+2019-02-28 16:26:13,985 - BaseCase - ERROR - not send_keys
+2019-02-28 16:26:32,751 - BaseCase - ERROR - <WebUITest.pagesobjets.fatiePage.FaTiePage object at 0x0000000003628A90> page not found element('id', 'fastpostmessage')元素
+2019-02-28 16:26:32,751 - BaseCase - ERROR - not send_keys
+2019-02-28 16:26:32,757 - BaseCase - ERROR - not click

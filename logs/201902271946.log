@@ -1,0 +1,18 @@
+2019-02-27 19:46:04,606 - BrowserEngin - INFO - 你选择了Chrome游览器
+2019-02-27 19:46:04,607 - BrowserEngin - INFO - 测试URL是:http://127.0.0.1/forum.php
+2019-02-27 19:46:08,086 - BrowserEngin - INFO - 启动谷歌游览器
+2019-02-27 19:46:09,663 - BrowserEngin - INFO - 打开：http://127.0.0.1/forum.php
+2019-02-27 19:46:10,940 - BrowserEngin - INFO - 窗口最大化
+2019-02-27 19:46:10,945 - BrowserEngin - INFO - 等待10秒
+2019-02-27 19:46:21,481 - BaseCase - INFO - <WebUITest.pagesobjets.pageHome.pageHome object at 0x00000000035DA390> page not found element('id', 'kw')元素
+2019-02-27 19:46:21,481 - BaseCase - INFO - not send_keys
+2019-02-27 19:46:30,081 - BaseCase - INFO - not click
+2019-02-27 19:46:43,960 - BrowserEngin - INFO - 你选择了Chrome游览器
+2019-02-27 19:46:43,961 - BrowserEngin - INFO - 测试URL是:http://127.0.0.1/forum.php
+2019-02-27 19:46:47,007 - BrowserEngin - INFO - 启动谷歌游览器
+2019-02-27 19:46:48,482 - BrowserEngin - INFO - 打开：http://127.0.0.1/forum.php
+2019-02-27 19:46:49,686 - BrowserEngin - INFO - 窗口最大化
+2019-02-27 19:46:49,697 - BrowserEngin - INFO - 等待10秒
+2019-02-27 19:47:00,188 - BaseCase - INFO - <WebUITest.pagesobjets.pageHome.pageHome object at 0x00000000035E93C8> page not found element('id', 'kw')元素
+2019-02-27 19:47:00,188 - BaseCase - INFO - not send_keys
+2019-02-27 19:47:02,658 - BaseCase - INFO - not click
