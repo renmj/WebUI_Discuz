@@ -1,0 +1,48 @@
+2019-03-04 23:11:48,886 - BrowserEngin - INFO - 你选择了Chrome游览器
+2019-03-04 23:11:48,886 - BrowserEngin - INFO - 测试URL是:http://127.0.0.1/forum.php
+2019-03-04 23:11:53,023 - BrowserEngin - INFO - 启动谷歌游览器
+2019-03-04 23:11:55,636 - BrowserEngin - INFO - 打开：http://127.0.0.1/forum.php
+2019-03-04 23:11:56,871 - BrowserEngin - INFO - 窗口最大化
+2019-03-04 23:11:56,875 - BrowserEngin - INFO - 等待10秒
+2019-03-04 23:11:57,183 - BaseCase - INFO - send_keysguo
+2019-03-04 23:11:57,492 - BaseCase - INFO - send_keys123456
+2019-03-04 23:11:57,699 - BaseCase - INFO - click
+2019-03-04 23:12:04,043 - BaseCase - INFO - click
+2019-03-04 23:12:04,719 - BaseCase - INFO - send_keystitlettttttt
+2019-03-04 23:12:05,391 - BaseCase - INFO - send_keyscontenttttttttttttttttttttt
+2019-03-04 23:12:08,536 - BaseCase - INFO - click
+2019-03-04 23:12:08,790 - BaseCase - INFO - click
+2019-03-04 23:12:14,393 - BaseCase - INFO - send_keyshellovvvvvvvvvvvvvvvvvvvv
+2019-03-04 23:12:15,256 - BaseCase - INFO - click
+2019-03-04 23:12:16,143 - BaseCase - INFO - click
+2019-03-04 23:12:18,483 - BrowserEngin - INFO - 你选择了Chrome游览器
+2019-03-04 23:12:18,483 - BrowserEngin - INFO - 测试URL是:http://127.0.0.1/forum.php
+2019-03-04 23:12:21,561 - BrowserEngin - INFO - 启动谷歌游览器
+2019-03-04 23:12:23,092 - BrowserEngin - INFO - 打开：http://127.0.0.1/forum.php
+2019-03-04 23:12:24,307 - BrowserEngin - INFO - 窗口最大化
+2019-03-04 23:12:24,315 - BrowserEngin - INFO - 等待10秒
+2019-03-04 23:12:24,666 - BaseCase - INFO - send_keysadmin
+2019-03-04 23:12:24,979 - BaseCase - INFO - send_keysguo123
+2019-03-04 23:12:25,170 - BaseCase - INFO - click
+2019-03-04 23:12:31,543 - BaseCase - INFO - click
+2019-03-04 23:12:32,192 - BaseCase - INFO - click
+2019-03-04 23:12:32,938 - BaseCase - INFO - click
+2019-03-04 23:12:34,833 - BaseCase - INFO - click
+2019-03-04 23:12:35,247 - BaseCase - INFO - click
+2019-03-04 23:12:39,524 - BaseCase - ERROR - not click
+2019-03-04 23:12:55,420 - BaseCase - ERROR - <WebUITest.pagesobjets.partPage.PartPage object at 0x0000000003795AC8> page not found element('id', 'main')元素
+2019-03-04 23:12:55,452 - BaseCase - INFO - into frame
+2019-03-04 23:12:58,499 - BaseCase - ERROR - not click
+2019-03-04 23:13:01,643 - BaseCase - ERROR - not click
+2019-03-04 23:13:04,717 - BaseCase - ERROR - not click
+2019-03-04 23:13:07,795 - BaseCase - ERROR - not click
+2019-03-04 23:13:18,690 - BaseCase - ERROR - <WebUITest.pagesobjets.loginPage.LoginPage object at 0x0000000003795828> page not found element('name', 'username')元素
+2019-03-04 23:13:18,690 - BaseCase - ERROR - not send_keys
+2019-03-04 23:13:29,660 - BaseCase - ERROR - <WebUITest.pagesobjets.loginPage.LoginPage object at 0x0000000003795828> page not found element('name', 'password')元素
+2019-03-04 23:13:29,660 - BaseCase - ERROR - not send_keys
+2019-03-04 23:13:32,855 - BaseCase - ERROR - not click
+2019-03-04 23:13:35,152 - BrowserEngin - INFO - 你选择了Chrome游览器
+2019-03-04 23:13:35,167 - BrowserEngin - INFO - 测试URL是:http://127.0.0.1/forum.php
+2019-03-04 23:13:38,070 - BrowserEngin - INFO - 启动谷歌游览器
+2019-03-04 23:13:39,218 - BrowserEngin - INFO - 你选择了Chrome游览器
+2019-03-04 23:13:39,222 - BrowserEngin - INFO - 测试URL是:http://127.0.0.1/forum.php
