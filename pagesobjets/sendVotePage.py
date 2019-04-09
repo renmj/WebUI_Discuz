@@ -1,9 +1,10 @@
-from WebUITest.pagesobjets.basecase import BaseCase
+from pagesobjets.basecase import BaseCase
 from selenium.webdriver.common.by import By
-from WebUITest.pagesobjets.sendPage import FaTiePage
+from pagesobjets.sendPostPage import SendPostPage
+from pagesobjets.beforeLoginPage import BeforeLoginPage
 import time
-class VotePage(BaseCase):
-    fatie_button_loc = (By.ID, "newspecial")
+class SendVotePage(BaseCase):
+
     vote_loc=(By.LINK_TEXT,"发起投票")
     title_loc=(By.ID,"subject")
     content1_loc=(By.XPATH,"//div[@id='pollm_c_1']/p[1]/input")
@@ -15,11 +16,14 @@ class VotePage(BaseCase):
     option_loc=(By.CLASS_NAME,"pslt")
     submit_loc=(By.ID,"pollsubmit")
     def votefun(self,title,con1,con2,con3):
-        #进入默认板块
-        fatie=FaTiePage(self.driver)
-        fatie.morenfun()
+        #点击进入默认板块
+        beforeLoginPage=BeforeLoginPage(self.driver)
+        beforeLoginPage.defaultModelfun()
         self.driver.switch_to.window(self.driver.window_handles[0])
-        self.click(*self.fatie_button_loc)
+        #点击发帖
+        sendPostPage=SendPostPage(self.driver)
+        sendPostPage.click_postfun()
+        #点击发起投票
         self.click(*self.vote_loc)
         self.driver.switch_to.window(self.driver.window_handles[0])
         self.send_keys(title,*self.title_loc)

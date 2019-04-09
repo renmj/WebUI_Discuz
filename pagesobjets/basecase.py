@@ -1,6 +1,6 @@
 from selenium.webdriver.support.wait import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
-from WebUITest.framework.logger import Logger
+from framework.logger import Logger
 from selenium.webdriver.common.by import By
 import os
 import time

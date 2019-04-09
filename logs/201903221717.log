@@ -1,0 +1,37 @@
+2019-03-22 17:17:28,019 - BrowserEngin - INFO - 你选择了Chrome游览器
+2019-03-22 17:17:28,020 - BrowserEngin - INFO - 测试URL是:http://127.0.0.1/forum.php
+2019-03-22 17:17:31,251 - BrowserEngin - INFO - 启动谷歌游览器
+2019-03-22 17:17:32,730 - BrowserEngin - INFO - 打开：http://127.0.0.1/forum.php
+2019-03-22 17:17:33,889 - BrowserEngin - INFO - 窗口最大化
+2019-03-22 17:17:33,899 - BrowserEngin - INFO - 等待10秒
+2019-03-22 17:17:34,253 - BaseCase - INFO - send_keysguo
+2019-03-22 17:17:34,594 - BaseCase - INFO - send_keys123456
+2019-03-22 17:17:34,833 - BaseCase - INFO - click
+2019-03-22 17:17:45,966 - BaseCase - INFO - click
+2019-03-22 17:17:46,877 - BaseCase - INFO - send_keystitlettttttt
+2019-03-22 17:17:47,669 - BaseCase - INFO - send_keyscontenttttttttttttttttttttt
+2019-03-22 17:19:45,284 - BaseCase - INFO - click
+2019-03-22 17:19:45,719 - BaseCase - INFO - click
+2019-03-22 17:19:51,261 - BaseCase - INFO - send_keyshellovvvvvvvvvvvvvvvvvvvv
+2019-03-22 17:19:52,056 - BaseCase - INFO - click
+2019-03-22 17:19:52,491 - BaseCase - INFO - click
+2019-03-22 17:19:54,830 - BrowserEngin - INFO - 你选择了Chrome游览器
+2019-03-22 17:19:54,830 - BrowserEngin - INFO - 测试URL是:http://127.0.0.1/forum.php
+2019-03-22 17:19:57,753 - BrowserEngin - INFO - 启动谷歌游览器
+2019-03-22 17:19:59,308 - BrowserEngin - INFO - 打开：http://127.0.0.1/forum.php
+2019-03-22 17:20:00,467 - BrowserEngin - INFO - 窗口最大化
+2019-03-22 17:20:00,474 - BrowserEngin - INFO - 等待10秒
+2019-03-22 17:20:00,838 - BaseCase - INFO - send_keysadmin
+2019-03-22 17:20:01,209 - BaseCase - INFO - send_keysguo123
+2019-03-22 17:20:01,479 - BaseCase - INFO - click
+2019-03-22 17:20:09,903 - BaseCase - INFO - click
+2019-03-22 17:20:10,352 - BaseCase - INFO - click
+2019-03-22 17:20:11,141 - BaseCase - INFO - click
+2019-03-22 17:20:12,684 - BaseCase - INFO - click
+2019-03-22 17:20:13,148 - BaseCase - INFO - click
+2019-03-22 17:20:24,355 - BaseCase - ERROR - not click
+2019-03-22 17:20:34,387 - BaseCase - ERROR - not click
+2019-03-22 17:20:49,894 - BaseCase - ERROR - <pagesobjets.stationPage.StationPage object at 0x000000000359A668> page not found element('id', 'main')元素
+2019-03-22 17:20:49,902 - BaseCase - INFO - into frame
+2019-03-22 17:20:59,892 - BaseCase - ERROR - not click
+2019-03-22 17:21:09,887 - BaseCase - ERROR - not click

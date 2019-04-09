@@ -1,0 +1,44 @@
+2019-03-20 20:44:59,731 - BrowserEngin - INFO - 你选择了Chrome游览器
+2019-03-20 20:44:59,731 - BrowserEngin - INFO - 测试URL是:http://127.0.0.1/forum.php
+2019-03-20 20:45:02,738 - BrowserEngin - INFO - 启动谷歌游览器
+2019-03-20 20:45:15,430 - BrowserEngin - INFO - 打开：http://127.0.0.1/forum.php
+2019-03-20 20:45:16,662 - BrowserEngin - INFO - 窗口最大化
+2019-03-20 20:45:16,670 - BrowserEngin - INFO - 等待10秒
+2019-03-20 20:45:17,041 - BaseCase - INFO - send_keysguo
+2019-03-20 20:45:17,367 - BaseCase - INFO - send_keys123456
+2019-03-20 20:45:17,630 - BaseCase - INFO - click
+2019-03-20 20:45:48,987 - BaseCase - INFO - click
+2019-03-20 20:45:49,575 - BaseCase - INFO - send_keystitlettttttt
+2019-03-20 20:45:50,423 - BaseCase - INFO - send_keyscontenttttttttttttttttttttt
+2019-03-20 20:46:18,074 - BaseCase - INFO - click
+2019-03-20 20:46:18,526 - BaseCase - INFO - click
+2019-03-20 20:46:24,134 - BaseCase - INFO - send_keyshellovvvvvvvvvvvvvvvvvvvv
+2019-03-20 20:46:24,939 - BaseCase - INFO - click
+2019-03-20 20:46:25,417 - BaseCase - INFO - click
+2019-03-20 20:46:27,741 - BrowserEngin - INFO - 你选择了Chrome游览器
+2019-03-20 20:46:27,741 - BrowserEngin - INFO - 测试URL是:http://127.0.0.1/forum.php
+2019-03-20 20:46:30,662 - BrowserEngin - INFO - 启动谷歌游览器
+2019-03-20 20:46:42,022 - BrowserEngin - INFO - 打开：http://127.0.0.1/forum.php
+2019-03-20 20:46:43,257 - BrowserEngin - INFO - 窗口最大化
+2019-03-20 20:46:43,292 - BrowserEngin - INFO - 等待10秒
+2019-03-20 20:46:43,666 - BaseCase - INFO - send_keysadmin
+2019-03-20 20:46:44,067 - BaseCase - INFO - send_keysguo123
+2019-03-20 20:46:44,329 - BaseCase - INFO - click
+2019-03-20 20:47:23,552 - BaseCase - INFO - click
+2019-03-20 20:47:23,914 - BaseCase - INFO - click
+2019-03-20 20:47:24,875 - BaseCase - INFO - click
+2019-03-20 20:47:26,832 - BaseCase - INFO - click
+2019-03-20 20:47:32,970 - BaseCase - ERROR - not click
+2019-03-20 20:47:35,423 - BrowserEngin - INFO - 你选择了Chrome游览器
+2019-03-20 20:47:35,423 - BrowserEngin - INFO - 测试URL是:http://127.0.0.1/forum.php
+2019-03-20 20:47:39,364 - BrowserEngin - INFO - 启动谷歌游览器
+2019-03-20 20:47:48,083 - BrowserEngin - INFO - 打开：http://127.0.0.1/forum.php
+2019-03-20 20:47:58,309 - BrowserEngin - INFO - 窗口最大化
+2019-03-20 20:47:58,309 - BrowserEngin - INFO - 等待10秒
+2019-03-20 20:47:58,309 - BaseCase - ERROR - <pagesobjets.beforeLoginPage.BeforeLoginPage object at 0x000000000357CB70> page not found element('name', 'username')元素
+2019-03-20 20:47:58,309 - BaseCase - ERROR - not send_keys
+2019-03-20 20:47:58,325 - BaseCase - ERROR - <pagesobjets.beforeLoginPage.BeforeLoginPage object at 0x000000000357CB70> page not found element('name', 'password')元素
+2019-03-20 20:47:58,325 - BaseCase - ERROR - not send_keys
+2019-03-20 20:47:58,325 - BaseCase - ERROR - not click
+2019-03-20 20:48:00,497 - BrowserEngin - INFO - 你选择了Chrome游览器
+2019-03-20 20:48:00,497 - BrowserEngin - INFO - 测试URL是:http://127.0.0.1/forum.php

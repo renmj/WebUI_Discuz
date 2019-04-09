@@ -1,0 +1,17 @@
+2019-03-20 19:47:43,000 - BrowserEngin - INFO - 你选择了Chrome游览器
+2019-03-20 19:47:43,000 - BrowserEngin - INFO - 测试URL是:http://127.0.0.1/forum.php
+2019-03-20 19:47:46,291 - BrowserEngin - INFO - 启动谷歌游览器
+2019-03-20 19:47:47,894 - BrowserEngin - INFO - 打开：http://127.0.0.1/forum.php
+2019-03-20 19:47:49,166 - BrowserEngin - INFO - 窗口最大化
+2019-03-20 19:47:49,181 - BrowserEngin - INFO - 等待10秒
+2019-03-20 19:47:49,659 - BaseCase - INFO - send_keysguo
+2019-03-20 19:47:50,082 - BaseCase - INFO - send_keys123456
+2019-03-20 19:47:50,336 - BaseCase - INFO - click
+2019-03-20 19:47:56,779 - BaseCase - INFO - click
+2019-03-20 19:47:57,648 - BaseCase - INFO - send_keystitlettttttt
+2019-03-20 19:47:58,431 - BaseCase - INFO - send_keyscontenttttttttttttttttttttt
+2019-03-20 19:48:14,145 - BaseCase - INFO - click
+2019-03-20 19:48:14,569 - BaseCase - INFO - click
+2019-03-20 19:48:20,264 - BaseCase - INFO - send_keyshellovvvvvvvvvvvvvvvvvvvv
+2019-03-20 19:48:21,136 - BaseCase - INFO - click
+2019-03-20 19:48:21,666 - BaseCase - INFO - click

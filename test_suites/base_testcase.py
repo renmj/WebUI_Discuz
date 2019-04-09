@@ -1,6 +1,6 @@
 from selenium import webdriver
 import unittest
-from WebUITest.framework.browser_engine import BrowserEngin
+from framework.browser_engine import BrowserEngin
 import os
 import time
 class BaseTestCase(unittest.TestCase):

@@ -8,8 +8,14 @@ class Logger:
         self.logger.setLevel(logging.DEBUG) #设置级别
 
         rq=time.strftime('%Y%m%d%H%M',time.localtime(time.time()))
-        log_path=os.path.dirname(os.path.abspath("."))+'/logs/'
+        current_path = os.path.abspath(__file__)  # 获得当前模块的绝对路径
+        a_path = os.path.dirname(current_path)  # os.path.dirname可以获取到上一级的路径
+        b_path = os.path.dirname(a_path)
+        # c_path=os.path.dirname(os.path.dirname(current_path)) #也可以连着用
+        print(current_path)
+        log_path = b_path + '/logs/'
         log_name=log_path+rq+'.log'
+
 
         fh=logging.FileHandler(log_name) #文件
         fh.setLevel(logging.INFO)

@@ -1,13 +1,14 @@
 import os.path
 from configparser import ConfigParser
 from selenium import webdriver
-from WebUITest.framework.logger import Logger
+from framework.logger import Logger
 
 #创建一个日志记录器实例
 logger=Logger(logger="BrowserEngin").getlog()
 
 class BrowserEngin(object):
-    dir=os.path.dirname(os.path.abspath("."))#相对路径获取方法
+    dir=os.path.dirname(os.path.dirname(os.path.abspath(__file__)))#相对路径获取方法
+    print(dir)
     chrome_driver_path=dir+"/tools/chromedriver.exe"
     ie_driver_path=dir+"/tools/IEDdriverServer.exe"
     firefox_driver_path=dir+"/tools/geckodriver.exe"
@@ -16,7 +17,8 @@ class BrowserEngin(object):
     #从config.ini文件读取浏览器类型，返回驱动程序
     def open_browser(self):
         config=ConfigParser()
-        file_path=os.path.dirname(os.path.abspath("."))+"/config/config.ini"
+        #dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+        file_path = self.dir + '/config/config.ini'
         config.read(file_path)
 
         browser=config.get("browserType","browserName")
